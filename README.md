@@ -13,7 +13,6 @@ Exemplo: `compress.zlib://foo.gz`
 * Validar todos os campos.
 * Documentar.
 * Remover mensagens de debug.
-* Deixar bonitinho!
 
 #Licensa
 GPLv3
